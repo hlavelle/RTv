@@ -1,0 +1,1 @@
+clang -L ~/lib -lSDL2 -I ~/include test.c 
